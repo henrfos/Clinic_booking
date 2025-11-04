@@ -191,10 +191,3 @@ npm run dev
 http://localhost:3000
 ```
 
-### REFERENCES
-- Microsoft Learn: ASP.NET Core Security & CORS
-- Microsoft Docs: Entity Framework Core
-- Next.js 14 Documentation
-- Tailwind CSS Documentation
-- Noroff school slides and backend course examples (Modules: REST API, EF Core, DTOs)
-- ChatGPT (OpenAI) — used for code review, debugging, and documentation structuring
